@@ -1,0 +1,6 @@
+com\example\student\StudentRepository.class
+com\example\student\Student.class
+com\example\student\StudentController.class
+com\example\student\ResourceNotFoundException.class
+com\example\student\StudentApplication.class
+com\example\student\StudentService.class
